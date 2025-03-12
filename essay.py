@@ -2,7 +2,7 @@
 
 
 def capitalize_title(title):
-    return title.title();
+    return title.title()
 
 def check_sentence_ending(sentence):
     return sentence.endswith(".")
